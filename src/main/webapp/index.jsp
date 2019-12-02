@@ -51,7 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h>cloud by cloud89</h>
+        <h4>cloud by cloud89</h4>
         <p>You never get a second chance to make a first impression !!! </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
